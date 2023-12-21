@@ -1,0 +1,281 @@
+{
+  "modpackVersion": "0.4",
+  "modList": [
+    {
+      "modName": "Complementary Shaders - Reimagined",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4744/392/ComplementaryReimagined_r5.0.zip"
+    },
+    {
+      "modName": "Base Origins Tweaks",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4274/197/Base Origins Tweaks 1.0.0 1.19.jar"
+    },
+    {
+      "modName": "Smooth Scrolling Everywhere (Fabric)",
+      "modDownloadLink": "https://edge.forgecdn.net/files/3832/27/SmoothScrollingEverywhere-3.0.5.jar"
+    },
+    {
+      "modName": "Debugify",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4060/233/Debugify-2.8.0.jar"
+    },
+    {
+      "modName": "Fabric Language Kotlin",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4030/849/fabric-language-kotlin-1.8.5+kotlin.1.7.20.jar"
+    },
+    {
+      "modName": "Enhanced Block Entities",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4046/700/enhancedblockentities-0.7.2+1.19.2.jar"
+    },
+    {
+      "modName": "Forge Config API Port [Fabric]",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4322/560/ForgeConfigAPIPort-v4.2.10-1.19.2-Fabric.jar"
+    },
+    {
+      "modName": "YUNG's Better Nether Fortresses (Fabric)",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4655/731/YungsBetterNetherFortresses-1.19.2-Fabric-1.0.6.jar"
+    },
+    {
+      "modName": "Fabric Seasons",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4699/684/fabric-seasons-2.3+1.19.jar"
+    },
+    {
+      "modName": "spark",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4505/310/spark-1.10.37-fabric.jar"
+    },
+    {
+      "modName": "Simple Discord RPC [Forge/Fabric/Quilt]",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4444/848/simple-rpc-fabric-1.19.x-3.2.2.jar"
+    },
+    {
+      "modName": "CorgiLib",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4554/112/CorgiLib-fabric-1.19.2-1.0.0.34.jar"
+    },
+    {
+      "modName": "Item Model Fix (Fabric)",
+      "modDownloadLink": "https://edge.forgecdn.net/files/3854/720/item-model-fix-1.0.3+1.19.jar"
+    },
+    {
+      "modName": "Fabric Seasons: Extras",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4533/744/fabric-seasons-extras-1.2-BETA+1.19.jar"
+    },
+    {
+      "modName": "Origins: Classes",
+      "modDownloadLink": "https://edge.forgecdn.net/files/3827/906/Origins-Classes-1.19-1.4.0.jar"
+    },
+    {
+      "modName": "GeckoLib",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4407/239/geckolib-fabric-1.19-3.1.40.jar"
+    },
+    {
+      "modName": "Iron Chests: Restocked",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4670/971/ironchests-3.1.3-fabric.jar"
+    },
+    {
+      "modName": "Phantoms See Phantoms [Origins Addon]",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4312/587/phantoms-see-phantoms-1.0.1-1.19.x.jar"
+    },
+    {
+      "modName": "Krypton",
+      "modDownloadLink": "https://edge.forgecdn.net/files/3908/28/krypton-0.2.1.jar"
+    },
+    {
+      "modName": "YUNG's Better Mineshafts (Fabric)",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4876/98/YungsBetterMineshafts-1.19.2-Fabric-3.2.1.jar"
+    },
+    {
+      "modName": "oωo (owo-lib)",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4028/921/owo-lib-0.8.5+1.19.jar"
+    },
+    {
+      "modName": "YetAnotherConfigLib",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4361/292/YetAnotherConfigLib-2.2.0-for-1.19.2.jar"
+    },
+    {
+      "modName": "YUNG's Better Dungeons (Fabric)",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4031/673/YungsBetterDungeons-1.19.2-Fabric-3.2.1.jar"
+    },
+    {
+      "modName": "Mod Menu",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4145/207/modmenu-4.1.2.jar"
+    },
+    {
+      "modName": "Sodium Extra",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4279/44/sodium-extra-0.4.16+mc1.19.2-build.90.jar"
+    },
+    {
+      "modName": "Nature's Compass",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4118/387/NaturesCompass-1.19.2-2.1.0-fabric.jar"
+    },
+    {
+      "modName": "Origins++",
+      "modDownloadLink": "https://edge.forgecdn.net/files/3995/401/origins-plus-plus-1.7.2.jar"
+    },
+    {
+      "modName": "Harvest with ease",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4925/560/harvestwithease-1.19.2-8.0.0.2-fabric.jar"
+    },
+    {
+      "modName": "MoreCulling",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4442/152/moreculling-1.19.1-0.17.0.jar"
+    },
+    {
+      "modName": "Cull Less Leaves",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4002/520/CullLessLeaves-1.0.6.jar"
+    },
+    {
+      "modName": "Fabric API",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4902/659/fabric-api-0.77.0%2b1.19.2.jar"
+    },
+    {
+      "modName": "TerraBlender (Fabric)",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4205/731/TerraBlender-fabric-1.19.2-2.0.1.136.jar"
+    },
+    {
+      "modName": "Cloth Config API (Fabric/Forge/NeoForge)",
+      "modDownloadLink": "https://edge.forgecdn.net/files/3972/420/cloth-config-8.2.88-fabric.jar"
+    },
+    {
+      "modName": "Pehkui",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4492/272/Pehkui-3.7.3+1.14.4-1.20.jar"
+    },
+    {
+      "modName": "You're in Grave Danger",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4503/995/youre-in-grave-danger-1.4.9.jar"
+    },
+    {
+      "modName": "YUNG's Extras (Fabric)",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4031/232/YungsExtras-1.19.2-Fabric-3.1.0.jar"
+    },
+    {
+      "modName": "Just Enough Items (JEI)",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4712/863/jei-1.19.2-fabric-11.6.0.1018.jar"
+    },
+    {
+      "modName": "YUNG's Better Ocean Monuments (Fabric)",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4761/152/YungsBetterOceanMonuments-1.19.2-Fabric-2.1.1.jar"
+    },
+    {
+      "modName": "MemoryLeakFix",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4465/266/memoryleakfix-fabric-1.17+-1.0.0.jar"
+    },
+    {
+      "modName": "Entity Culling Fabric/Forge",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4404/950/entityculling-fabric-1.6.1-mc1.19.2.jar"
+    },
+    {
+      "modName": "Reese's Sodium Options",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4126/247/reeses_sodium_options-1.4.9+mc1.19.2-build.67.jar"
+    },
+    {
+      "modName": "Sodium",
+      "modDownloadLink": "https://edge.forgecdn.net/files/3957/319/sodium-fabric-mc1.19.2-0.4.4+build.18.jar"
+    },
+    {
+      "modName": "Iris Shaders",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4385/33/iris-mc1.19.2-1.5.2.jar"
+    },
+    {
+      "modName": "DashLoader",
+      "modDownloadLink": "https://edge.forgecdn.net/files/3955/503/dashloader-4.1.2+1.19.jar"
+    },
+    {
+      "modName": "YUNG's Better Strongholds (Fabric)",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4031/215/YungsBetterStrongholds-1.19.2-Fabric-3.2.0.jar"
+    },
+    {
+      "modName": "Jade 🔍",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4328/558/Jade-1.19.1-fabric-8.7.3.jar"
+    },
+    {
+      "modName": "FerriteCore (Fabric)",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4117/902/ferritecore-5.0.3-fabric.jar"
+    },
+    {
+      "modName": "Visuality",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4418/106/visuality-0.5.6.jar"
+    },
+    {
+      "modName": "Ping Wheel",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4215/990/Ping-Wheel-1.2.0-fabric-1.19.2.jar"
+    },
+    {
+      "modName": "Fabric Seasons: BYG Compat",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4496/986/fabric-seasons-byg-2.0.1.1-compat-1.0.jar"
+    },
+    {
+      "modName": "JourneyMap",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4532/890/journeymap-1.19.2-5.9.7-fabric.jar"
+    },
+    {
+      "modName": "No Chat Reports",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4056/445/NoChatReports-FABRIC-1.19.2-v1.13.11.jar"
+    },
+    {
+      "modName": "Oh The Biomes You'll Go Refabricated",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4841/634/Oh_The_Biomes_You%27ll_Go-fabric-1.19.2-2.0.1.6.jar"
+    },
+    {
+      "modName": "YUNG's Bridges (Fabric)",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4031/234/YungsBridges-1.19.2-Fabric-3.1.0.jar"
+    },
+    {
+      "modName": "Blur (Fabric)",
+      "modDownloadLink": "https://edge.forgecdn.net/files/3848/824/blur-2.6.0.jar"
+    },
+    {
+      "modName": "YUNG's Better Desert Temples (Fabric)",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4419/321/YungsBetterDesertTemples-1.19.2-Fabric-2.2.2.jar"
+    },
+    {
+      "modName": "Chunky (Fabric)",
+      "modDownloadLink": "https://edge.forgecdn.net/files/3970/963/Chunky-1.3.38.jar"
+    },
+    {
+      "modName": "Configured (Fabric)",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4010/582/configured-fabric-2.0.0-1.19.2.jar"
+    },
+    {
+      "modName": "Not Enough Animations",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4065/548/notenoughanimations-fabric-1.6.2-mc1.19.2.jar"
+    },
+    {
+      "modName": "YUNG's API (Fabric)",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4876/64/YungsApi-1.19.2-Fabric-3.8.10.jar"
+    },
+    {
+      "modName": "Extra Origins",
+      "modDownloadLink": "https://edge.forgecdn.net/files/3878/952/extraorigins-1.19-2.jar"
+    },
+    {
+      "modName": "Fabric Waystones",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4567/225/wraith-waystones-3.0.8+mc1.19.2.jar"
+    },
+    {
+      "modName": "HT's TreeChop",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4965/501/TreeChop-1.19.2-fabric-0.18.6.jar"
+    },
+    {
+      "modName": "Smooth Boot (Fabric)",
+      "modDownloadLink": "https://edge.forgecdn.net/files/3821/513/smoothboot-fabric-1.19-1.7.1.jar"
+    },
+    {
+      "modName": "Fabric Furnaces",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4031/463/fabric-furnaces-2.2.0-1.19.2.jar"
+    },
+    {
+      "modName": "Explorify – Dungeons & Structures",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4131/741/explorify-fabric-1.19-1.3.0.jar"
+    },
+    {
+      "modName": "LazyDFU",
+      "modDownloadLink": "https://edge.forgecdn.net/files/3821/870/lazydfu-0.1.3.jar"
+    },
+    {
+      "modName": "Origins (Fabric)",
+      "modDownloadLink": "https://edge.forgecdn.net/files/4044/263/Origins-1.19.2-1.7.1.jar"
+    },
+    {
+      "modName": "Starlight (Fabric)",
+      "modDownloadLink": "https://edge.forgecdn.net/files/3835/973/starlight-1.1.1+fabric.ae22326.jar"
+    }
+  ]
+}
